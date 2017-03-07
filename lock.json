@@ -1,10 +1,34 @@
 {
-    "memo": "f8b2a690a2dec94657b102c7460a76bffac5ffa6f3f2ff65806eb06e58c7dd33",
+    "memo": "62e26c373229291292b70fa2dfa27299f1f82731810eb81857337ef78689a3c3",
     "projects": [
+        {
+            "name": "github.com/inconshreveable/mousetrap",
+            "branch": "master",
+            "revision": "76626ae9c91c4f2a10f34cad8ce83ea42c93bb75",
+            "packages": [
+                "."
+            ]
+        },
         {
             "name": "github.com/sirupsen/logrus",
             "version": "v0.11.4",
             "revision": "0208149b40d863d2c1a2f8fe5753096a9cf2cc8b",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/spf13/cobra",
+            "branch": "master",
+            "revision": "fcd0c5a1df88f5d6784cb4feead962c3f3d0b66c",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/spf13/pflag",
+            "branch": "master",
+            "revision": "9ff6c6923cfffbcd502984b8e0c80539a94968b7",
             "packages": [
                 "."
             ]
