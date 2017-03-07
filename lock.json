@@ -1,0 +1,21 @@
+{
+    "memo": "bf10d92440d6d0a529ff0cb11070a77daadc35fdcd3242cadd54c8c2f25b43f2",
+    "projects": [
+        {
+            "name": "github.com/sirupsen/logrus",
+            "version": "v0.11.4",
+            "revision": "0208149b40d863d2c1a2f8fe5753096a9cf2cc8b",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "golang.org/x/sys",
+            "branch": "master",
+            "revision": "e48874b42435b4347fc52bdee0424a52abc974d7",
+            "packages": [
+                "unix"
+            ]
+        }
+    ]
+}
