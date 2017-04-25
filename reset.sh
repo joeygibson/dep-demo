@@ -6,7 +6,7 @@ rm -f *.json
 rm -f Gopkg.*
 rm -f dep-demo
 
-for lib in [github.com/Sirupsen/logrus github.com/sirupsen/logrus github.com/spf13/cobra/cobra]; do
+for lib in github.com/Sirupsen github.com/sirupsen github.com/spf13/cobra; do
   echo "Deleting $lib"
   set -x
   rm -rf $GOPATH/src/$lib
